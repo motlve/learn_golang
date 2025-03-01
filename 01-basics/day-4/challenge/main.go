@@ -1,7 +1,7 @@
 package main
 
 import (
-	"modularization-go/01-basics/day-4/challenge/test"
+	"01-basics/01-basics/day-4/challenge/test"
 )
 
 func main() {

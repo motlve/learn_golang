@@ -1,9 +1,9 @@
 package main
 
 import (
+	"01-basics/01-basics/day-4/modularization-go/grades"
 	"bufio"
 	"fmt"
-	"modularization-go/01-basics/day-4/modularization-go/grades"
 	"os"
 	"strings"
 )

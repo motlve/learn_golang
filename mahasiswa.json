@@ -1,0 +1,14 @@
+{
+ "mahasiswa": [
+  {
+   "name": "Rizky Aditiyo",
+   "age": 22,
+   "score": 88.5
+  },
+  {
+   "name": "Naifah Salsabila T Ariani",
+   "age": 21,
+   "score": 90
+  }
+ ]
+}
